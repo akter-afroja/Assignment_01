@@ -62,6 +62,7 @@ h1 .main-area{
     height: auto;
 }
 #flex-menu-2{
+    display: flex;
     width: 33.33%;
     height: auto;
 }
