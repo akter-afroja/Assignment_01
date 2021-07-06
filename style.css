@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: #cce6c1 ;
+    font-family: 'Montserrat', sans-serif;
+}
+#logo img{
+    width: 100px;
+    height: 100px;
+}
+section{
+    display: flex;
+}
+#logo{
+    width: 25%;
+}
+#Nav-bar{
+    width: 50%;
+    padding-left: 50%;
+    padding-top: 20px;
+}
+h1{
+    font-size: 50px;
+}
+.red-color {
+    color: rgb(163, 10, 40);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(172, 3, 3) rgb(177, 47, 7));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(moodboard/3.jpg);
+    background-repeat: no-repeat;
+}
