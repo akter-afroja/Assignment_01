@@ -54,6 +54,16 @@ section{
 .flexible container{
     display: flex;
 }
-.flex-menus{
+#flex-menu-1{
     width: 33.33%;
+    background-image: url(moodboard/2.jpg);
+}
+footer{
+    background-color: navy;
+    margin: 50px 0;
+    padding: 25px;
+    text-align: center;
+    font-size: 18px;
+    color: papayawhip;
+    
 }
