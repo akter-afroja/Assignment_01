@@ -51,6 +51,9 @@ section{
     background-image: url(moodboard/3.jpg);
     background-repeat: no-repeat;
 }
-section .menu-area{
+.flexible container{
     display: flex;
+}
+.flex-menus{
+    width: 33.33%;
 }
