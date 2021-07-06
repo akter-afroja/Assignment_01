@@ -51,3 +51,6 @@ section{
     background-image: url(moodboard/3.jpg);
     background-repeat: no-repeat;
 }
+section .menu-area{
+    display: flex;
+}
