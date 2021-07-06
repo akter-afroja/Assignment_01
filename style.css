@@ -39,15 +39,15 @@ section{
 .half-width img{
     width: 80%;
 }
-.link-button{
+.button{
     text-decoration: none;
     background-image: linear-gradient(rgb(172, 3, 3) rgb(177, 47, 7));
     padding: 10px 40px;
-    color: white;
-    font-weight: 700;
+    color: rgb(0, 0, 0);
+    font-weight: 700px;
     border-radius: 5px;
 }
-.top-banner{
+#hero-image img{
     background-image: url(moodboard/3.jpg);
     background-repeat: no-repeat;
 }
