@@ -23,7 +23,7 @@ section{
     padding-left: 50%;
     padding-top: 20px;
 }
-h1{
+h1 {
     font-size: 50px;
 }
 .red-color {
@@ -51,12 +51,23 @@ section{
     background-image: url(moodboard/3.jpg);
     background-repeat: no-repeat;
 }
+h1 .main-area{
+    font-size: 500px;
+}
 .flexible container{
     display: flex;
 }
 #flex-menu-1{
     width: 33.33%;
-    background-image: url(moodboard/2.jpg);
+    height: auto;
+}
+#flex-menu-2{
+    width: 33.33%;
+    height: auto;
+}
+#flex-menu-3{
+    width: 33.33%;
+    height: auto;
 }
 footer{
     background-color: navy;
@@ -66,4 +77,12 @@ footer{
     font-size: 18px;
     color: papayawhip;
     
+}
+#flex-menu-1{
+    display: flex;
+}
+.menu{
+    width: 50%;
+    color: rgb(22, 37, 37);
+    padding: 20px 0 20px 0;
 }
